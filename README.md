@@ -17,3 +17,5 @@
 | 时间     | time      |        | 纯的时间，即使由于技术原因使用DateTime类型存储 |
 | 日期时间 | dateTime  |        | 日期时间均有                                   |
 |  申请  | apply  |        |                                           |
+|  资格  | qualification |       |                                  |
+|  理由  | reason |       |                                  |
